@@ -28,7 +28,7 @@ function Projects() {
             <div className="grid grid-cols-3 w-full gap-12 items-center bg-modal p-8 hover:bg-gray-500 rounded-lg hover:bg-clip-padding hover:backdrop-filter hover:backdrop-blur-sm hover:bg-opacity-50  hover:border-gray-100">
               <div className="w-full h-auto col-start-1 col-end-3 md:col-end-2 ">
                 <img
-                  src="src/imgs/wewriteblogs.png"
+                  src="/wewriteblogs.png"
                   className="shadow-sm rounded-sm"
                   alt=""
                 />
@@ -61,7 +61,7 @@ function Projects() {
             <div className="grid grid-cols-3 w-full gap-12 items-center bg-modal p-8 hover:bg-gray-500 rounded-lg hover:bg-clip-padding hover:backdrop-filter hover:backdrop-blur-sm hover:bg-opacity-50  hover:border-gray-100">
               <div className="w-full h-auto col-start-1 col-end-3 md:col-end-2 border border-gray-700">
                 <img
-                  src="src/imgs/portfolio.png"
+                  src="/portfolio.png"
                   className="shadow-sm rounded-sm"
                   alt=""
                 />
